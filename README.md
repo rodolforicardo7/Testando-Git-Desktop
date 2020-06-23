@@ -1,2 +1,4 @@
 # Testando Git Desktop
- testando as funcionalidades do GitHub Desktop
+ Testando as funcionalidades do GitHub Desktop
+
+ Muito interessante!
